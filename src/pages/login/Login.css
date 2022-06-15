@@ -1,0 +1,15 @@
+
+/* .main {
+    background: url("https://i.ibb.co/GxyQzDG/man.jpg") no-repeat fixed;
+    height: 100%;
+    overflow: hidden;
+    color: #FFFFFF;
+    position: absolute;
+   } */
+   
+   .overlay {
+    background: rgba(39, 66, 235,0.5);
+    overflow: hidden;
+    height: 100%;
+    z-index: 100;
+   }
