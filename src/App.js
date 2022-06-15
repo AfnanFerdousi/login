@@ -4,7 +4,7 @@ import Navbar from './pages/shared/Navbar/Navbar';
 
 function App() {
   return (
-    <div>
+    <div className='max-h-screen'>
       <Navbar></Navbar>
       <Login></Login>
     </div>
